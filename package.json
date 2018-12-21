@@ -1,0 +1,27 @@
+{
+  "name": "webpack-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterMJH/webpack-config.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterMJH/webpack-config/issues"
+  },
+  "homepage": "https://github.com/peterMJH/webpack-config#readme",
+  "devDependencies": {
+    "clean-webpack-plugin": "^1.0.0",
+    "css-loader": "^2.0.2",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.28.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
